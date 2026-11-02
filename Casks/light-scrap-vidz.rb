@@ -1,6 +1,6 @@
 cask "light-scrap-vidz" do
-  version "1.0.1"
-  sha256 "f544fffa527a8a03a72e32305d3f2df895a2ceeeac60b1248f17f2786806d199"
+  version "1.0.2"
+  sha256 "35fd38de34f168f232d9cebebf7b20a6298d1352da14e49cfa5ae7b3913a8745"
 
   url "https://github.com/light-scrap-vidz/light-scrap-vidz/releases/download/v#{version}/LightScrapVidz_#{version}_aarch64.app.tar.gz"
   name "LightScrapVidz"
